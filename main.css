@@ -1,0 +1,11 @@
+@CHARSET "UTF-8";
+table .c {
+	color: red;
+	}
+.a .c {
+	color: green;
+	}
+
+#t {
+	color: red;
+}
