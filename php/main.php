@@ -1,5 +1,6 @@
 <?php
-
+require 'interfaces.php';
+require 'classes.php';
 //Lets init products instances
 // we're going for A, B, C, D, E, F, G, H, I, J, K, L, M
 $prodA = new Product("A", 100);
